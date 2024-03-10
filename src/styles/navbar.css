@@ -1,0 +1,21 @@
+
+
+.navbar {
+    background: transparent;
+    top: 10px;
+    
+    position: sticky;
+    z-index: 999;
+    margin-top: 20px;
+    
+}
+
+
+#navbar.active {
+    margin-top: 20px;
+    
+    background:#f0def6;
+    border-radius: 20px;
+    
+
+}
